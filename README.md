@@ -12,6 +12,8 @@ I own test strategy, automation and release quality gates across web, iOS and An
 
 ### Projects
 
+- [qa-automation-showcase](https://github.com/mdanifo/qa-automation-showcase): an expense reimbursement app with unit, API, contract, database and Playwright tests, each proven against a seeded bug
+- [ai-test-generation](https://github.com/mdanifo/ai-test-generation): tests Claude writes from acceptance criteria, kept only when they catch a seeded bug
 - [gmailscan](https://github.com/mdanifo/gmailscan): read-only Gmail access shared by my personal projects
 - [notify](https://github.com/mdanifo/notify): the email and push notification library my alerters share
 
